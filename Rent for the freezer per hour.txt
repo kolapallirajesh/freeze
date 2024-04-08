@@ -1,0 +1,5 @@
+                              Rent for the freezer per hour
+1.	French door rent per an hour               =500
+2.	Side door rent per an hour                     =300
+3.	Bottom door freezerrent per hour         = 200
+4.	Top freezer rent per hour                        =100
